@@ -1,0 +1,1 @@
+Php-MyAdmin needs its own nginx server.

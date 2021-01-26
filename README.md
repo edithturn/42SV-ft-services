@@ -1,9 +1,8 @@
 # ft-services
 Ft_services will introduce you to Kubernetes. You will discover cluster management and deployment with Kubernetes. You will virtualize a network and do "clustering".
 
+## Set up a multi-service cluster.
 
-
-## Check List
 
 ### General
 - [x] Each service run in a dedicated container
@@ -47,3 +46,23 @@ Ft_services will introduce you to Kubernetes. You will discover cluster manageme
 - [ ]  FTPS, Grafana, WordPress, PhpMyAdmin and nginx's kind must be "LoadBalancer"
 - [ ]  InfluxDB and MySql's kind must be "ClusterIP".
 - [ ]   None of them can be of kind "NodePort"
+
+
+## Kubernetes Dashboard
+
+
+## Concepts
+
+
+**MetalLB**: 
+**InfluxDB**
+
+
+## Installation and configuration Minikube
+
+
+
+### FT_SERVICES pdf  new curriculum
+[Download from HERE](https://drive.google.com/file/d/1x3_JV38GSzlpNDzs7W7Ewuf_xgIxw3LT/view?usp=sharing)
+ 
+
