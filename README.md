@@ -58,7 +58,33 @@ Ft_services will introduce you to Kubernetes. You will discover cluster manageme
 **InfluxDB**
 
 
-## Installation and configuration Minikube
+## Installation and configuration of your environment Minikube
+
+### 42 Virtual Machine
+Download 42 VIrtual Machine:
+https://mega.nz/file/x7gkVRKQ#qyIgYF0ZVRgrt8eyYx6kxV80FCopaH5ox3W6koBw8Ho
+
+
+### Local Environment Minikube - Linux Ubuntu20.0
+
+**Docker Installation**
+
+```Docker
+sudo apt-get update
+sdo apt-get instll apt-transpor-htto ca-certificates curl software=propetyies-common
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+udo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable"
+sudo apt update
+sudo apt install docker-ce
+docker hello-world
+
+```
+
+**Minikube Installation**
+
+
+**Testing Minikube installation**
+
 
 
 
