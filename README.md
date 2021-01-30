@@ -133,7 +133,7 @@ minikube addons list
 
 SOurces:
 
-Prear Environment : https://phoenixnap.com/kb/install-minikube-on-ubuntu
+Prepare Environment : https://phoenixnap.com/kb/install-minikube-on-ubuntu
 
 
 ### FT_SERVICES pdf  new curriculum
